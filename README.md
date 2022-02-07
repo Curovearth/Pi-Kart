@@ -37,3 +37,11 @@ Being a social animal we thrive to look for things which socially good for all o
 &nbsp; <a href="https://www.youtube.com/channel/UCtod0cyzPDfuv5WIpytDDNw" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/youtube.png"  width="50" /></a>
 &nbsp; <a href="mailto:indianteampi@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
+
+## Brains behind this project:
+
+<a href="https://github.com/Curovearth"> Swarup Tripathy :smile: </a>
+
+<a href="https://github.com/yatharthagr7"> Yatharth Agarwal :smile: </a>
+
+<a href="https://github.com/anvit1618"> Anvit Agarwal 👽 </a>
