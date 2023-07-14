@@ -1,5 +1,6 @@
-![Intro page](https://drive.google.com/uc?export=view&id=1YfZwoHzxftk0PxizXpdH5Ls6r1vxpGIM)
-
+<a href="https://youtu.be/FRMxHVtfFvE" target="_blank">
+ <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/355/761/datas/gallery.jpg" alt="Watch the video" />
+</a>
 
 <h1>Making your Kart, Smart with Pi-Kart</h1>
 <h2>Introduction</h2>
